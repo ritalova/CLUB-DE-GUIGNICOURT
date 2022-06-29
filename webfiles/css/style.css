@@ -1,0 +1,155 @@
+
+header nav {
+
+
+    background-color: #345765;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'montserrat';
+    font-style: normal;
+    line-height: 16px;
+    color: #ffffff;
+    height: 100px;
+}
+nav ul {
+   
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 30px;
+    margin-top: 20px;
+    float: right;
+    
+}
+nav a{
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+h1{
+    max-width: 1200px;
+    text-transform: uppercase;
+    color: #34A58A;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 60px;
+    font-style: normal;
+    font-family: 'montserrat';
+}
+header img{
+ 
+    max-width: 1200px;
+    border-radius: 10px;
+    margin: 0;
+
+}
+
+h2{
+    color: #6B5B54;
+
+}
+
+.paragraphe{
+    color: #000000;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.05rem;
+    
+}
+.para{
+    color: #000000;
+    font-family: 'Lato';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+}
+#h2{
+    width: 509px;
+    height: 83px;
+    right: 292px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 36px;
+    line-height: 36px;
+    
+    
+    
+}
+section ul{
+    list-style: none;
+    color: #34A58A;
+    font-family: "Lato";
+    font-style: normal;
+    letter-spacing: 00.06em;
+    font-size: 20px;
+    line-height: 25px;
+
+}
+.logo{  
+    color: #34A58A;
+   
+    font-size: 20px;
+    line-height: 25px;
+    
+}
+/*
+#h{
+    color: #6B5B54;
+    float: right;
+    letter-spacing: 0.06em;
+    top: 100px;
+
+}
+/*
+.img{
+    color: #34A58A;
+    font-family:"Lato" ;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 25px;
+    font-size: 20px;
+    float: right;
+    
+}
+/*.dernier{
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: left;
+    letter-spacing: 0.06em;
+}*/
+article img{
+
+}
+footer{
+    background-color: #34A58A;
+
+}
+footer div{
+    padding: 30px;
+}
+#para{
+    text-decoration: underline;
+}
+.first{
+    text-decoration: underline;
+}
+.tata{
+    text-decoration: underline;
+
+}
+.titi{
+    text-decoration: underline;
+}
+.lolo{
+    float: right;
+}
